@@ -1,2 +1,7 @@
 custom_data
 custom_data.zip
+yolov3_custom.cfg
+yolov3_custom_6000.weights
+yolov3_custom_8000.weights
+yolov3_custom_final.weights
+darknet53.conv.74
